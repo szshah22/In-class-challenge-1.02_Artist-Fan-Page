@@ -1,0 +1,50 @@
+body {
+    background-color: darkblue;
+    background-image: url();
+  }
+  
+  h1{
+    color: red;
+    text-decoration: underline;
+    border: 5px solid red;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+  }
+
+  p{
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+  }
+
+  img{
+    display: block;
+    max-width: 300px;
+    border: 10px solid white;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+    
+  }
+  
+  a {
+    border: 3px solid blue;
+    
+  }
+  
+  .header-text{
+    background-color: white;
+    border: 3px dotted red;
+  
+  }
+  
+  .img-container{
+    border: 3px dotted darkred;
+    background-color: darkblue;
+    padding: 15px;
+
+  }
+  
