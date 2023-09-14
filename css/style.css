@@ -1,12 +1,12 @@
 body {
-    background-color: darkblue;
-    background-image: url();
+    background-image: url(https://i.pinimg.com/1200x/9d/9b/72/9d9b7296b4c136cd7c8ade9c21dee77a.jpg);
   }
   
   h1{
-    color: red;
+    color: white;
     text-decoration: underline;
-    border: 5px solid red;
+    text-decoration-color: red;
+    font-family: 'Space Theme', sans-serif;
     margin-left: auto;
     margin-right: auto;
     width: 60%;
@@ -14,6 +14,7 @@ body {
 
   p{
     color: white;
+    font-family: 'Space Theme', sans-serif;
     margin-left: auto;
     margin-right: auto;
     width: 80%;
@@ -30,20 +31,23 @@ body {
     
   }
   
-  a {
-    border: 3px solid blue;
+  p {
+    background-color: black;
+    padding: 15px;
     
   }
   
   .header-text{
-    background-color: white;
-    border: 3px dotted red;
+    color: white;
   
   }
   
   .img-container{
-    border: 3px dotted darkred;
-    background-color: darkblue;
+    padding: 15px;
+
+  }
+
+  .vid-container{
     padding: 15px;
 
   }
